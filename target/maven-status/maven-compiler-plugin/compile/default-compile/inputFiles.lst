@@ -1,0 +1,9 @@
+C:\Users\petru.boulescu.ESP\aws-java-servicii-auto\src\main\java\com\serverless\handlers\ListServicesHandler.java
+C:\Users\petru.boulescu.ESP\aws-java-servicii-auto\src\main\java\com\serverless\ServiceService.java
+C:\Users\petru.boulescu.ESP\aws-java-servicii-auto\src\main\java\com\serverless\ApiGatewayResponse.java
+C:\Users\petru.boulescu.ESP\aws-java-servicii-auto\src\main\java\com\serverless\handlers\DeleteServiceHandler.java
+C:\Users\petru.boulescu.ESP\aws-java-servicii-auto\src\main\java\com\serverless\handlers\CreateServiceHandler.java
+C:\Users\petru.boulescu.ESP\aws-java-servicii-auto\src\main\java\com\serverless\dao\Service.java
+C:\Users\petru.boulescu.ESP\aws-java-servicii-auto\src\main\java\com\serverless\handlers\GetServiceHandler.java
+C:\Users\petru.boulescu.ESP\aws-java-servicii-auto\src\main\java\com\serverless\dao\DynamoDBAdapter.java
+C:\Users\petru.boulescu.ESP\aws-java-servicii-auto\src\main\java\com\serverless\Response.java

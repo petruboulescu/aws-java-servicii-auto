@@ -1,0 +1,10 @@
+com\serverless\handlers\DeleteServiceHandler.class
+com\serverless\ApiGatewayResponse$Builder.class
+com\serverless\Response.class
+com\serverless\ApiGatewayResponse.class
+com\serverless\dao\DynamoDBAdapter.class
+com\serverless\handlers\ListServicesHandler.class
+com\serverless\handlers\GetServiceHandler.class
+com\serverless\handlers\CreateServiceHandler.class
+com\serverless\dao\Service.class
+com\serverless\ServiceService.class
